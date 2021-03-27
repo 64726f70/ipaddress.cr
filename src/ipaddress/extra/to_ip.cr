@@ -2,7 +2,7 @@ class String
   # Returns `self` as an `IPAddress` object if possible, raises otherwise.
   #
   # ```
-  # require "ipaddress/src/ext/to_ip"
+  # require "ipaddress/src/extra/to_ip"
   #
   # "127.0.0.1".to_ip.to_string  # => "127.0.0.1/32"
   # "10.0.0.256".to_ip.to_string # => raises ArgumentError

@@ -1,4 +1,4 @@
-require "../../../src/ipaddress/ext/to_ip"
+require "../../../src/ipaddress/extra/to_ip"
 require "../../spec_helper"
 
 describe IPAddress do
