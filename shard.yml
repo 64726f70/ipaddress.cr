@@ -1,0 +1,10 @@
+name: ipaddress
+version: 1.0.0
+
+authors:
+  - 64726f70 <_@github.com>
+  - Sijawusz Pur Rahnama <sija@sija.pl>
+
+
+crystal: ">= 1.0.0"
+license: MIT
