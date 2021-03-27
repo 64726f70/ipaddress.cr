@@ -5,12 +5,12 @@
 <p align="center">
   <a href="https://crystal-lang.org">
     <img src="https://img.shields.io/badge/built%20with-crystal-000000.svg" /></a>    
-  <a href="https://github.com/64726f70/ipaddress/actions">
-    <img src="https://github.com/64726f70/ipaddress/workflows/Continuous%20Integration/badge.svg" /></a>
-  <a href="https://github.com/64726f70/ipaddress/releases">
-    <img src="https://img.shields.io/github/release/64726f70/ipaddress.svg" /></a>
-  <a href="https://github.com/64726f70/ipaddress/blob/master/license">
-    <img src="https://img.shields.io/github/license/64726f70/ipaddress.svg"></a>
+  <a href="https://github.com/64726f70/ipaddress.cr/actions">
+    <img src="https://github.com/64726f70/ipaddress.cr/workflows/Continuous%20Integration/badge.svg" /></a>
+  <a href="https://github.com/64726f70/ipaddress.cr/releases">
+    <img src="https://img.shields.io/github/release/64726f70/ipaddress.cr.svg" /></a>
+  <a href="https://github.com/64726f70/ipaddress.cr/blob/master/license">
+    <img src="https://img.shields.io/github/license/64726f70/ipaddress.cr.svg"></a>
 </p>
 
 ## Description
@@ -33,13 +33,13 @@ Add this to your application's shard.yml:
 ```yaml
 dependencies:
   ipaddress:
-    github: 64726f70/ipaddress
+    github: 64726f70/ipaddress.cr
 ```
 
 ### Installation
 
 ```bash
-$ git clone https://github.com/64726f70/ipaddress.git
+$ git clone https://github.com/64726f70/ipaddress.cr.git
 ```
 
 ## Development
